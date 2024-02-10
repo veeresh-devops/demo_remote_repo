@@ -1,7 +1,2 @@
 # demo_remote_repo
-I am adding jenkins slave
-hello world
-hi
-hello
-
-world hi
+i am adding commit1
